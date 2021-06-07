@@ -1,0 +1,35 @@
+*{
+    margin: 2px;
+    background-color: rgb(235, 203, 165);
+
+
+}
+
+img {
+    height: 100px;
+    
+}
+
+header{
+    background-color: black;
+}
+.logoAndName {
+    padding-top: 1%;
+    background-color: tomato;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 400%;
+  
+    
+}
+
+.pageBar{
+ background-color: white;
+ text-align: center;
+ border-bottom: 1px black solid;
+ margin: 0px;
+ padding: 0px;
+}
+
+
+
+
